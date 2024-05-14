@@ -1,0 +1,10 @@
+h1{
+    color: rgb(15, 77, 176);
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    font-family: Montserrat;
+}
